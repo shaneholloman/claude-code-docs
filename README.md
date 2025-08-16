@@ -93,7 +93,7 @@ The docs automatically stay up-to-date:
 - GitHub Actions updates the repository every 3 hours
 - The hook compares GitHub's timestamp with your local sync time
 - If GitHub has newer content, it automatically syncs before reading
-- You'll see "🔄 Updating docs to latest version..." when this happens
+- You'll see "Updating docs to latest version..." when this happens
 - No manual updates needed!
 
 **Performance**:
