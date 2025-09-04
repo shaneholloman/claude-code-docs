@@ -40,6 +40,12 @@ curl -fsSL https://claude.ai/install.sh | bash
 irm https://claude.ai/install.ps1 | iex
 ```
 
+**Windows CMD:**
+
+```batch
+curl -fsSL https://claude.ai/install.cmd -o install.cmd && install.cmd && del install.cmd
+```
+
 ## Step 2: Log in to your account
 
 Claude Code requires an account to use. When you start an interactive session with the `claude` command, you'll need to log in:
